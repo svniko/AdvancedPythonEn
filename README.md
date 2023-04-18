@@ -5,3 +5,4 @@
 * <a href="https://github.com/svniko/AdvancedPythonEn/tree/main/Lecture4">Lecture 4. Linters. OOP in Python: Classes and Instances</a>
 * <a href="https://github.com/svniko/AdvancedPythonEn/tree/main/Lecture5">Lecture 5. Class variables. Class methods and static methods</a>
 * <a href="https://github.com/svniko/AdvancedPythonEn/tree/main/Lecture6">Lecture 6. Inheritance. Part 1</a>
+* <a href="https://github.com/svniko/AdvancedPythonEn/tree/main/Lecture7">Lecture 7. Dunder methods, @property</a>
