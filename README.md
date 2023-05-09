@@ -8,3 +8,4 @@
 * <a href="https://github.com/svniko/AdvancedPythonEn/tree/main/Lecture7">Lecture 7. Dunder methods, @property</a>
 * <a href="https://github.com/svniko/AdvancedPythonEn/tree/main/Lecture8">Lecture 8.Python decorators. OOP in Python: Types of  inheritance</a>
 * <a href="https://github.com/svniko/AdvancedPythonEn/tree/main/Lecture9">Lecture 9.Intro to Numpy</a>
+* <a href="https://github.com/svniko/AdvancedPythonEn/tree/main/Lecture10">Lecture 10.Working with arrays</a>
