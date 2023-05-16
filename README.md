@@ -9,3 +9,4 @@
 * <a href="https://github.com/svniko/AdvancedPythonEn/tree/main/Lecture8">Lecture 8.Python decorators. OOP in Python: Types of  inheritance</a>
 * <a href="https://github.com/svniko/AdvancedPythonEn/tree/main/Lecture9">Lecture 9.Intro to Numpy</a>
 * <a href="https://github.com/svniko/AdvancedPythonEn/tree/main/Lecture10">Lecture 10.Working with arrays</a>
+* <a href="https://github.com/svniko/AdvancedPythonEn/tree/main/Lecture11">Lecture 11.Array Concatenation and Splitting. Broadcasting </a>
