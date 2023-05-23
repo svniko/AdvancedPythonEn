@@ -11,3 +11,4 @@
 * <a href="https://github.com/svniko/AdvancedPythonEn/tree/main/Lecture10">Lecture 10. Working with arrays</a>
 * <a href="https://github.com/svniko/AdvancedPythonEn/tree/main/Lecture11">Lecture 11. Array Concatenation and Splitting. Broadcasting </a>
 * <a href="https://github.com/svniko/AdvancedPythonEn/tree/main/Lecture12">Lecture 12. Comparisons, Masks, and Boolean Logic. Intro to Matplotlib </a>
+* <a href="https://github.com/svniko/AdvancedPythonEn/tree/main/Lecture12">Lecture 13. Creating plots using Matplotlib </a>
